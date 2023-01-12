@@ -65,15 +65,6 @@ This notebook provides the tests of adaptive loss functions with Wiener filter f
 This report presents details about this project, including introduction, software description, implementation, test, results, discussion and conclusion.
 
 
-<!-- CONTACT -->
-
-
-## Contact
-
-* Tao, Ranran ranran.tao20@imperial.ac.uk
-* GitHub login: acse-rt120
-* Project Link: [https://github.com/acse-2020/acse2020-acse9-finalreport-acse-rt120](https://github.com/acse-2020/acse2020-acse9-finalreport-acse-rt120)
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
