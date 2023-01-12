@@ -60,7 +60,7 @@ This notebook contains a way of calculating 2D adaptive loss function with Wiene
 
 This notebook provides the tests of adaptive loss functions with Wiener filter for all the methods implemented above. 
 
-* PDF file (RanranTao_ACSE9_FinalReport.pdf)
+* PDF file (FinalReport.pdf)
 
 This report presents details about this project, including introduction, software description, implementation, test, results, discussion and conclusion.
 
