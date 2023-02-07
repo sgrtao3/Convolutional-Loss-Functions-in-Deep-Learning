@@ -45,15 +45,15 @@ There are four notebooks and one report within the repo.
 
 * Notebook 1 (1D_method1.ipynb)
 
-This notebook contains a way of calculating 1D adaptive loss function with Wiener filter without using torch.roll. Note that this notebook is set up to be ran on Google Colab with GPU.
+This notebook contains a way of calculating 1D adaptive loss function with Wiener filter without using torch.roll. Note that this notebook is set up to be run on Google Colab with GPU.
 
 * Notebook 2 (1D_method2.ipynb)
 
-This notebook contains another way of claculating 1D adaptive loss function with Wiener filter using torch.roll. Note that this notebook is set up to be ran on Google Colab with GPU.
+This notebook contains another way of claculating 1D adaptive loss function with Wiener filter using torch.roll. Note that this notebook is set up to be run on Google Colab with GPU.
 
 * Notebook 3 (2D.ipynb)
 
-This notebook contains a way of calculating 2D adaptive loss function with Wiener filter. Note that this notebook is set up to be ran on Google Colab with GPU.
+This notebook contains a way of calculating 2D adaptive loss function with Wiener filter. Note that this notebook is set up to be run on Google Colab with GPU.
 
 * Notebook 4 (Test.ipynb)
 
